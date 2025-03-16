@@ -4,3 +4,4 @@
 .terraform/
 terraform.tfvars
 *.tfvars
+terraform.tfvars
