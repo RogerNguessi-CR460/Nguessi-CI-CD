@@ -13,7 +13,7 @@ provider "azurerm" {
   features {}
 }
 
-# Groupe des ressources
+# Groupe de ressources
 resource "azurerm_resource_group" "CR460_test" {
   name     = "terraform-cloud-test-rg"
   location = "Canada Central"
